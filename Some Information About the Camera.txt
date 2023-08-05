@@ -1,0 +1,28 @@
+Some Information About the Camera Module used OV7670:
+
+OV7670 Camera Module is a FIFO camera Module available from different Manufacturers with different pin Configurations. TheOV7670 provides full frame, windowed 8-bit images in a wide range of formats. The image array is capable of operating at up to 30 frames per second (fps) in VGA. The OV7670 includes
+
+Image Sensor Array(of about 656 x 488 pixels)
+Timing Generator
+Analog Signal Processor
+A/D Converters
+Test Pattern Generator
+Digital Signal Processor(DSP)
+Image Scaler
+Digital Video Port
+LED and Strobe Flash Control Output
+The OV7670 image sensor is controlled using Serial Camera Control Bus (SCCB) which is an I2C interface (SIOC, SIOD) with a maximum clock frequency of 400KHz.
+
+The Camera comes with handshaking signals such as:
+
+VSYNC: Vertical Sync Output – Low during frame
+HREF:  Horizontal Reference – High during active pixels of row
+PCLK: Pixel Clock Output – Free running clock. Data is valid on rising edge
+In addition to this, it has several more signals such as
+
+D0-D7: 8-bit YUV/RGB Video Component Digital Output
+PWDN: Power Down Mode Selection – Normal Mode  and Power Down Mode
+XCLK: System Clock Input
+Reset: Reset Signal
+The OV7670 is clocked from a 24MHz oscillator. This gives a Pixel Clock(PCLK) output of 24MHz. The FIFO provides 3Mbps of video frame buffer memory. The test pattern generator features 8-bar color bar pattern, fade-to-gray color bar patter. Now let’s start programming the Arduino UNO for testing Camera OV7670 and grabbing frames using serial port reader.
+
