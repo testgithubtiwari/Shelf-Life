@@ -51,6 +51,16 @@
 
 ![image](https://github.com/testgithubtiwari/Shelf-Life/assets/111584498/173317de-30c2-492b-b970-d566313a9f50)
 
+#### Image of the OV7670 Camera Module:
+![image](https://github.com/testgithubtiwari/Shelf-Life/assets/111584498/abefac60-bf17-4ff4-9d02-2b67dbd6cb60)
+
+#### Image of the circuit Diagram:
+![image](https://github.com/testgithubtiwari/Shelf-Life/assets/111584498/9cc19191-d321-400b-9330-ed3a841f02cb)
+
+
+
+
+
 
 
 
