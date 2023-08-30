@@ -46,16 +46,15 @@
 #### 4) Limitations and Future Research:
 ######  Discuss any limitations of the study and suggest potential areas for future research to further refine the accuracy of aroma-based shelf life estimation.
 
-
-![image](https://github.com/testgithubtiwari/Shelf-Life/assets/111584498/cfaed3c1-3d72-45ec-b52d-6c9b02d4cbcb)
-
-![image](https://github.com/testgithubtiwari/Shelf-Life/assets/111584498/173317de-30c2-492b-b970-d566313a9f50)
+![Screenshot 2023-08-30 214436](https://github.com/testgithubtiwari/Shelf-Life/assets/111584498/57825cc9-5594-4197-8596-5f818892b85f)
 
 #### Image of the OV7670 Camera Module:
-![image](https://github.com/testgithubtiwari/Shelf-Life/assets/111584498/abefac60-bf17-4ff4-9d02-2b67dbd6cb60)
+![Screenshot 2023-08-30 214517](https://github.com/testgithubtiwari/Shelf-Life/assets/111584498/4d550014-938d-4e9f-beeb-8d7335ba2f69)
 
 #### Image of the circuit Diagram:
-![image](https://github.com/testgithubtiwari/Shelf-Life/assets/111584498/9cc19191-d321-400b-9330-ed3a841f02cb)
+![Screenshot 2023-08-30 214556](https://github.com/testgithubtiwari/Shelf-Life/assets/111584498/02fc3c1d-6b55-48dd-9558-4008a7d8601f)
+![Screenshot 2023-08-30 214612](https://github.com/testgithubtiwari/Shelf-Life/assets/111584498/6eff9de8-2b17-4d22-b4df-62b7560a6e45)
+
 
 
 
